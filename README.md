@@ -13,5 +13,5 @@ The types of classification algorithms that we will use are Logistic Regression 
 
 ## Compile report
 
-I have a report about the practice written in latex, you can compile it with pdflatex or just use the Makefile (maybe install some missing packages with tlmgr).
+You can see the [report](report.pdf) about the practice in a pdf format written in latex, also in this repo. You can compile it with pdflatex (just use the Makefile but maybe is necesary to install some missing packages with tlmgr).
 The report is in Spanish.
