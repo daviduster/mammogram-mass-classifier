@@ -42,3 +42,19 @@ $ bib report.tex
 ```
 
 (Maybe you will need to install some missing packages, you can use tlmgr)
+
+## Correción
+
+- Preprocesa bien, mira el número de nulos.
+
+- Aplica correlación.
+
+- Escala para aplicar a KNN.
+
+- Aplica varios preprocesamiento (más de 5) y los compara algoritmo a algoritmo.
+
+- Muy buen tuning, no sólo aplica el optimizador si no que visualiza y justifica.
+
+- Aplica cross_validation, pero no me queda claro si lo hace también para otras métricas, combina cross_validation con train_test, lo cual no es correcto.
+
+- Buen análisis, boxplots incluídos, sólo le ha faltado mostrar algún árbol.
